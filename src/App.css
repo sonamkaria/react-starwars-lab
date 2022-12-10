@@ -9,10 +9,11 @@
 .title {
   text-align: center;
   font-size: 30px;
-  color: deeppink;
+  color: white;
 }
 
 .shipcard {
+  color:rgb(193, 92, 16);
   display: flex;
   font-size: medium;
  flex-direction: column;
@@ -35,6 +36,6 @@ video {
   min-height: 100%;
 }
 
-starshipname {
-  color:black
+.starshipname {
+  color:deeppink
 }
